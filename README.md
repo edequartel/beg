@@ -1,5 +1,7 @@
 # Overzicht - tast en braille - cursussen - 2023-2024
 
+[website](https://tinyurl.com/begbart)
+
 
 | Cursus                                    | Datum          | Wie                           | Waar      | Tijd               | ruimte<br>verantwoordelijk | e-learning |
 |-------------------------------------------|----------------|-------------------------------|-----------|--------------------|-----------------------|-----------------|
