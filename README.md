@@ -8,10 +8,10 @@
 | A1 <br>braille basis                      | 30 januari     | Eric de Quartel               | Zeist     | 14:45-16:15        | Eric de Quartel       | x               |
 | A1 <br>braille basis                      | 5 maart        | Eric de Quartel               | Lochem    | 14:30-16:00        | Marlies Roenhorst <br> multiruimte | x |
 | B1 <br>voorbereidend                      | 10 januari     | Marlies Roenhorst <br>Linda van der Lande  | Lochem    | 14:30-16:00        | Marlies Roenhorst     | x |
-| D1 <br>conceptvorming                     | 9 januari   | Thessa Doosje <br>Cathelijne Vink  | Doorn     | 14:30-16:00      | Annetta Haan          |                 |
+| D1 <br>conceptvorming                     | 9 januari   | Thessa Doosje <br>Cathelijne Vink  | Doorn     | 14:30-16:00      | Annetta Haan <br> personeelskamer         |                 |
 | D2 <br>tast                               | 14 maart       | Annetta Haan<br>Linda van der Lande         | Doorn     | 14:30-16:00        | Annetta Haan          | x |
-| D2 <br>tast                               | 21 maart       | Annetta Haan<br>Linda van der Lande         | Lochem    | 14:30-16:00        | Marlies Roenhorst <br> multiruimte | x |
-| D1 <br>conceptvorming                     | 7 februari     | Thessa <br>Cathelijne Vink    | Lochem    | 14:30-16:00        | Marlies Roenhorst<br>lokaal OB/MB ||
+| D2 <br>tast                  | 21 maart       | Annetta Haan<br>Linda van der Lande         | Lochem    | 14:30-16:00        | Marlies Roenhorst <br> multiruimte | x |
+| D1 <br>conceptvorming                     | 7 februari     | Thessa Doosje <br>Cathelijne Vink    | Lochem    | 14:30-16:00        | Marlies Roenhorst<br>lokaal OB/MB<br> personeelskamer ||
 | F1 <br>digitaal braille                   | 2 april        | Eric de Quartel               | Zeist     | 14:30-16:00        | Eric de Quartel       | x|
 
 <!--
