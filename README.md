@@ -1,18 +1,36 @@
-# Overzicht - tast en braille - cursussen - 2023-2024
+# Overzicht - tast en braille - cursussen - 2024-2025
 
 [website](https://tinyurl.com/begbart)
 
+| Cursus                  | Datum          | Wie                       | Waar      | Tijd               | ruimte<br>verantwoordelijk | e-learning |
+|-------------------------|----------------|---------------------------|-----------|--------------------|-----------------------|---|
+| A1 <br>braille basis    | | Eric de Quartel                          | | | | |
+| A1 <br>braille basis    | | Eric de Quartel                          | | | | |
+| B1 <br>voorbereidend    | | Marlies Roenhorst <br>Linda van der Lane | | | | |
+| B2 <br>aanvankelijk en voortgezet || Thesssa <br>Cathelijne          | | | | |
+| C1 <br>revalidatie en keuze schriftsysteem || Thesssa <br>Cathelijne | | | | |
+| D1 <br>conceptvorming   | | Thessa Doosje <br>Cathelijne Vink        | | | | |
+| D2 <br>tast             | | Annetta Haan<br>Linda van der Lande      | | | | |
+| D1 <br>conceptvorming   | | Thessa Doosje <br>Cathelijne Vink        | | | | |
+| F1 <br>digitaal braille | | Eric de Quartel                          | | | | |
+| G1 <br>ICT en meervoudig beperkt | | Dick Lunenborg                  | | | | |
+| X1 <br>BraillStudio    | | Thessa Doosje<br>Eric de Quartel          | | | | |
 
-| Cursus                                    | Datum          | Wie                           | Waar      | Tijd               | ruimte<br>verantwoordelijk | e-learning |
-|-------------------------------------------|----------------|-------------------------------|-----------|--------------------|-----------------------|-----------------|
-| A1 <br>braille basis                      | 30 januari     | Eric de Quartel               | Zeist     | 14:45-16:15        | Eric de Quartel       | x               |
-| A1 <br>braille basis                      | 5 maart        | Eric de Quartel               | Lochem    | 14:30-16:00        | Marlies Roenhorst <br> multiruimte | x |
-| B1 <br>voorbereidend                      | 10 januari     | Marlies Roenhorst <br>Linda van der Lande  | Lochem    | 14:30-16:00        | Marlies Roenhorst     | x |
-| D1 <br>conceptvorming                     | 9 januari   | Thessa Doosje <br>Cathelijne Vink  | Doorn     | 14:30-16:00      | Annetta Haan <br> personeelskamer         |                 |
-| D2 <br>tast                               | 14 maart       | Annetta Haan<br>Linda van der Lande         | Doorn     | 14:30-16:00        | Annetta Haan          | x |
-| D2 <br>tast                  | 21 maart       | Annetta Haan<br>Linda van der Lande         | Lochem    | 14:30-16:00        | Marlies Roenhorst <br> multiruimte | x |
-| D1 <br>conceptvorming                     | 7 februari     | Thessa Doosje <br>Cathelijne Vink    | Lochem    | 14:30-16:00        | Marlies Roenhorst<br>lokaal OB/MB<br> personeelskamer ||
-| F1 <br>digitaal braille                   | 2 april        | Eric de Quartel               | Zeist     | 14:30-16:00        | Eric de Quartel       | x|
+<!--
+| X2 <br>Leren door spelen | | | | | | |
+-->
+
+
+
+### Cursussen 
+* A1 Basisbraille, Basis braille kennis voor alle medewerkers Bartiméus Onderwijs. Deze cursus is verplicht voor nieuwkomers.
+* B1 Voorbereidend, Kennis mbt de fase voordat jonge leerling braille gaat leren.
+* B2 Aanvankelijk en voortgezet, Kennis mbt de tweede en derde fase van het leren van Braille voor kinderen.
+* C1 Revalidatie en keuze schriftsysteem, Kennis mbt het aanleren van de methode bij het aanleren van braille als de leerling al kan lezen en schrijven. Daarbij komt handicapverwerking en keuze van braille, spraak of tekst aanbod.
+* D1 Conceptontwikkeling, Hoe ziet de wereld rond het blinde kind eruit en hoe bieden wij voldoende ervaringen aan om concepten te vullen. Zodat dit in de lessen aanbod komt.
+* D2 Tast, Kennis mbt tot de tast ontwikkeling en begrip en hoe deze toe te passen in de onderwijspraktijk.
+* F1 Digitaal braille en spraak, Kennis tav beelschermlezers en brailleleesregels. Met name NVDA, Supernova en Jaws.
+* G1 ICT en meervoudige beperking, Welke software en hardware kun je inzetten in de onderwijspraktijk bij leerlingen met een visuele en meervoudige beperking.
 
 <!--
 | X1 <br>braillestudio                      | mei            | Thessa Doosje<br>Eric de Quartel | Lochem | **nog onbekend**   |                       | x               |
