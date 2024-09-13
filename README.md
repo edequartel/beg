@@ -4,7 +4,7 @@
 
 | Cursus   | Voor wie               | Datum          | Workshop leider           | Waar      | Tijd               | ruimte | e-learning |
 |----------------------|---|----------------|---------------------------|-----------|--------------------|-----------------------|---|
-| A1 <br>braille basis | VSO| 08-10| Eric de Quartel                     | Zeist| 14:45-17:00 |  | Ja |
+| A1 <br>braille basis | VSO| 05-11| Eric de Quartel                     | Zeist| 14:45-17:00 |  | Ja |
 | A1 <br>braille basis    |SO/AOB/MG| 22-10 | Eric de Quartel                          | Onbekend| 14:45-17:00| | Ja|
 | B1 <br>voorbereidend    || | Marlies Roenhorst <br>Linda van der Lande | | | | Ja|
 | B2 <br>aanvankelijk en voortgezet ||| Thessa Doosje <br>Cathelijne          | | | | Ja|
