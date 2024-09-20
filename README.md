@@ -5,7 +5,7 @@
 | Cursus   | Voor wie               | Datum          | Workshop leider           | Waar      | Tijd               | ruimte | e-learning |
 |----------------------|---|----------------|---------------------------|-----------|--------------------|-----------------------|---|
 | A1 <br>braille basis | VSO| 14-11| Eric de Quartel                     | Zeist| 14:45-17:00 |  | Ja |
-| A1 <br>braille basis    |SO/AOB/MG| 22-10 | Eric de Quartel                          | Zeist| 14:45-17:00| | Ja|
+| A1 <br>braille basis    |SO/AOB/MG| ??? 22-10 | Eric de Quartel                          | Zeist| 14:45-17:00| | Ja|
 | B1 <br>voorbereidend    || | Marlies Roenhorst <br>Linda van der Lande | | | | Ja|
 | B2 <br>aanvankelijk en voortgezet ||08-01| Thessa Doosje <br>Cathelijne          | | | | Ja|
 | C1 <br>revalidatie en keuze schriftsysteem ||| Eric de Quartel | | | |Ja|
@@ -18,7 +18,7 @@
 | F1 <br>digitaal braille 4 |VSO| 16-01 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen |
 | F1 <br>digitaal braille 5 |SO| 29-01 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen |
 | G1 <br>ICT en meervoudig beperkt|| | Dick Lunenborg                  | | | | |
-| H1 <br>digitaal werken met slechtziende leerling slechtziend 1 |VSO|  | Dick Lunenborg                         | | | | |
+| H1 <br>digitaal werken met slechtziende leerlingen 1 |VSO|  | Dick Lunenborg                         | | | | |
 | H1 <br>digitaal slechtziend 2 || | Dick Lunenborg                         | | | | |
 | H1 <br>digitaal slechtziend 3 || | Dick Lunenborg                         | | | | |
 | X1 <br>BrailleStudio    ||12-03| Thessa Doosje<br>Eric de Quartel |Zeist|14:45-17:00||Neen|
