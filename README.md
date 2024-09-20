@@ -12,13 +12,13 @@
 | D1 <br>conceptvorming   ||29-01| Thessa Doosje <br>Cathelijne Vink |Zeist|14:45-17:00||Ja|
 | D2 <br>tast             || | Annetta Haan<br>Linda van der Lande      | | | |Ja|
 | D1 <br>conceptvorming   || | Thessa Doosje <br>Cathelijne Vink |Zeist|14:45-17:00||Ja|
-| F1 <br>digitaal braille 1 |VSO | 23-10 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen |
+| F1 <br>digitaal werken met braille leerlingen 1 |VSO | 23-10 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen |
 | F1 <br>digitaal braille 2 |VSO| 13-11 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen |
 | F1 <br>digitaal braille 3 |VSO| 28-11 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen |
 | F1 <br>digitaal braille 4 |VSO| 16-01 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen |
 | F1 <br>digitaal braille 5 |SO| 29-01 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen |
 | G1 <br>ICT en meervoudig beperkt|| | Dick Lunenborg                  | | | | |
-| H1 <br>digitaal slechtziend 1 |VSO|  | Dick Lunenborg                         | | | | |
+| H1 <br>digitaal werken met slechtziende leerling slechtziend 1 |VSO|  | Dick Lunenborg                         | | | | |
 | H1 <br>digitaal slechtziend 2 || | Dick Lunenborg                         | | | | |
 | H1 <br>digitaal slechtziend 3 || | Dick Lunenborg                         | | | | |
 | X1 <br>BrailleStudio    ||12-03| Thessa Doosje<br>Eric de Quartel |Zeist|14:45-17:00||Neen|
