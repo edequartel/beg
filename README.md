@@ -20,7 +20,7 @@
 | H1 <br>Digitaal Werken met Slechtziende Leerlingen 1| VSO           | ...              | ...             | Dick                                | ...   | ...           | ...    | ...        | 10  |
 | H1 <br>Digitaal Werken met Slechtziende Leerlingen 2| AOB           | ...              | ...             | Dick                                | ...   | ...           | ...    | ...        | 10  |
 | H1 <br>Digitaal Werken met Slechtziende Leerlingen 3| SO            | ...              | ...             | Dick                                | ...   | ...           | ...    | ...        | 10  |
-| X1 <br>BrailleStudio                          |                     | 12-03            | Woensdag        | Thessa <br>Cathelijne <br>Eric      | Zeist | 14:45-17:00   |        | Neen       | 6   |
+| X1 <br>BrailleStudio                          | SO/AOB              | 12-03            | Woensdag        | Thessa <br>Cathelijne <br>Eric      | Zeist | 14:45-17:00   |        | Neen       | 6   |
 
 
 <!--
