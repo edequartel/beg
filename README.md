@@ -2,26 +2,25 @@
 
 
 
-| Cursus   | Voor wie               | Datum          | Workshop leider           | Waar      | Tijd               | ruimte | e-learning | Max |
-|----------------------|---|----------------|---------------------------|-----------|--------------------|-----------------------|---|---|
-| A1 <br>braille basis | VSO| 14-11| Eric de Quartel                     | Zeist| 14:45-17:00 |  | Ja | 10 |
-| A1 <br>braille basis    |SO/AOB/MG| ??? 22-10 | Eric de Quartel                          | Zeist| 14:45-17:00| | Ja| 10 |
-| B1 <br>voorbereidend    || | Marlies Roenhorst <br>Linda van der Lande | | | | Ja| 10 |
-| B2 <br>aanvankelijk en voortgezet ||08-01| Thessa Doosje <br>Cathelijne          | | | | Ja| 10 |
-| C1 <br>revalidatie en keuze schriftsysteem ||| Eric de Quartel | | | |Ja| 10 |
-| D1 <br>conceptvorming   ||29-01| Thessa Doosje <br>Cathelijne Vink |Zeist|14:45-17:00||Ja| 10 |
-| D2 <br>tast             || | Annetta Haan<br>Linda van der Lande      | | | |Ja| 10 |
-| D1 <br>conceptvorming   || | Thessa Doosje <br>Cathelijne Vink |Zeist|14:45-17:00||Ja| 10 |
-| F1 <br>digitaal werken met braille leerlingen 1 |VSO | 23-10 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen | 6|
-| F1 <br>digitaal werken met braille leerlingen 2 |VSO| 13-11 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen | 6|
-| F1 <br>digitaal werken met braille leerlingen 3 |VSO| 28-11 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen | 6|
-| F1 <br>digitaal werken met braille leerlingen 4 |VSO| 16-01 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen | 6|
-| F1 <br>digitaal werken met braille leerlingen 5 |SO| 29-01 | Eric de Quartel                        | Zeist| 14:45-17:00 | | Neen | 6|
-| G1 <br>ICT en meervoudig beperkt|| | Dick Lunenborg                  | | | | | 10 |
-| H1 <br>digitaal werken met slechtziende leerlingen 1 |VSO|  | Dick Lunenborg                         | | | | | 10 |
-| H1 <br>digitaal werken met slechtziende leerlingen 2 || | Dick Lunenborg                         | | | | | 10 |
-| H1 <br>digitaal werken met slechtziende leerlingen 3 || | Dick Lunenborg                         | | | | | 10 |
-| X1 <br>BrailleStudio    ||12-03| Thessa Doosje<br>Eric de Quartel |Zeist|14:45-17:00||Neen| 6 |
+| Cursus                                        | Voor wie            | Datum            | Dag van de Week | Workshop leider                     | Waar  | Tijd          | Ruimte | online <br> voorbereiding | Max |
+|-----------------------------------------------|---------------------|------------------|-----------------|-------------------------------------|-------|---------------|--------|------------|-----|
+| A1 <br>Braille Basis                          | VSO                 | 14-11            | Donderdag       | Eric                                | Zeist | 14:45-17:00   | ...    | Ja         | 10  |
+| A1 <br>Braille Basis                          | SO/AOB/MG           | 22-10            | Dinsdag         | Eric                                | Zeist | 14:45-17:00   | ...    | Ja         | 10  |
+| B1 <br>Voorbereidend                          | SO/AOB (braille)    | 13-01            | Maandag         | Marlies <br>Linda                   | Lochem| 14:45-17:00   | ...    | Ja         | 10  |
+| B2 <br>Aanvankelijk en Voortgezet             | SO/AOB (braille)    | 08-01            | Woensdag        | Thessa <br>Cathelijne               | Zeist | 14:45-17:00   | ...    | Ja         | 10  |
+| C1 <br>Revalidatie en Keuze Schriftsysteem    | VSO/SO/AOB          | 19-03            | Woensdag        | Eric                                | Zeist | 14:45-17:00   | ...    | Ja         | 10  |
+| D1 <br>Conceptvorming                         | SO/VSO/AOB/MG       | 29-01            | Woensdag        | Thessa <br>Cathelijne               | Zeist | 14:45-17:00   | ...    | Ja         | 10  |
+| D2 <br>Tast                                   | ...                 | ...              | ...             | Annetta <br>Linda                   | ...   | ...           | ...    | Ja         | 12  |
+| F1 <br>Digitaal Werken met Braille Leerlingen 1| VSO                | 23-10            | Woendag         | Eric                                | Zeist | 14:45-17:00   | ...    | Neen       | 6   |
+| F1 <br>Digitaal Werken met Braille Leerlingen 2| VSO                | 13-11            | Woensdag        | Eric                                | Zeist | 14:45-17:00   | ...    | Neen       | 6   |
+| F1 <br>Digitaal Werken met Braille Leerlingen 3| VSO                | 28-11            | Donderdag       | Eric                                | Zeist | 14:45-17:00   | ...    | Neen       | 6   |
+| F1 <br>Digitaal Werken met Braille Leerlingen 4| VSO                | 16-01            | Donderdag       | Eric                                | Zeist | 14:45-17:00   | ...    | Neen       | 6   |
+| F1 <br>Digitaal Werken met Braille Leerlingen 5| SO                 | 29-01            | Woensdag        | Eric                                | Zeist | 14:45-17:00   |        | Neen       | 6   |
+| G1 <br>ICT en Meervoudig Beperkt                    | MG            | ...              | ...             | Dick                                | ...   | ...           | ...    | ...        | 10  |
+| H1 <br>Digitaal Werken met Slechtziende Leerlingen 1| VSO           | ...              | ...             | Dick                                | ...   | ...           | ...    | ...        | 10  |
+| H1 <br>Digitaal Werken met Slechtziende Leerlingen 2| AOB           | ...              | ...             | Dick                                | ...   | ...           | ...    | ...        | 10  |
+| H1 <br>Digitaal Werken met Slechtziende Leerlingen 3| SO            | ...              | ...             | Dick                                | ...   | ...           | ...    | ...        | 10  |
+| X1 <br>BrailleStudio                          |                     | 12-03            | Woensdag        | Thessa <br>Cathelijne <br>Eric      | Zeist | 14:45-17:00   |        | Neen       | 6   |
 
 
 <!--
