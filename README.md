@@ -1,4 +1,5 @@
 # Overzicht - tast en braille - cursussen - 2024-2025
+
 | Cursus                                               | Voor wie         | Datum | Dag van de Week | Workshop leider                | Waar   | Tijd        | Ruimte | online <br> voorbereiding | Max |
 |------------------------------------------------------|------------------|-------|-----------------|--------------------------------|--------|-------------|--------|---------------------------|-----|
 | A1 <br>Braille Basis                                 | VSO              | 14-11 | Donderdag       | Eric                           | Zeist  | 14:45-17:00 | ...    | Ja                        | 10  |
@@ -18,9 +19,11 @@
 | H1 <br>Digitaal Werken met Slechtziende Leerlingen 2 | AOB              | ...   | ...             | Dick                           | ...    | ...         | ...    | ...                       | 10  |
 | H1 <br>Digitaal Werken met Slechtziende Leerlingen 3 | SO               | ...   | ...             | Dick                           | ...    | ...         | ...    | ...                       | 10  |
 | X1 <br>BrailleStudio                                 | SO/AOB           | 12-03 | Woensdag        | Thessa <br>Cathelijne <br>Eric | Zeist  | 14:45-17:00 |        | Neen                      | 6   |
+
 <!--
 | X2 <br>Leren door spelen | | | | | | |
 -->
+
 ### Cursussen 
 * A1 Basisbraille, Basis braille kennis voor alle medewerkers Bartiméus Onderwijs. Deze cursus is verplicht voor nieuwkomers.
 * B1 Voorbereidend, Kennis mbt de fase voordat jonge leerling braille gaat leren.
@@ -30,6 +33,7 @@
 * D2 Tast, Kennis mbt tot de tast ontwikkeling en begrip en hoe deze toe te passen in de onderwijspraktijk.
 * F1 Digitaal braille en spraak, Kennis tav beelschermlezer JAWS en brailleleesregels. 
 * G1 ICT en meervoudige beperking, Welke software en hardware kun je inzetten in de onderwijspraktijk bij leerlingen met een visuele en meervoudige beperking.
+
 <!--
 [website](https://tinyurl.com/begbart)
 | X1 <br>braillestudio                      | mei            | Thessa Doosje<br>Eric de Quartel | Lochem | **nog onbekend**   |                       | x               |
