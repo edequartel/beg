@@ -7,7 +7,7 @@
 | B1 <br>Voorbereidend                                 | SO/AOB (braille) | 13-01 | Maandag         | Marlies <br>Linda              | Lochem | 14:45-17:00 | ...    | Ja                        | 10  |
 | B2 <br>Aanvankelijk en Voortgezet                    | SO/AOB (braille) | 08-01 | Woensdag        | Thessa <br>Cathelijne          | Zeist  | 14:45-17:00 | ...    | Ja                        | 10  |
 | C1 <br>Revalidatie en Keuze Schriftsysteem           | VSO/SO/AOB       | 19-03 | Woensdag        | Eric                           | Zeist  | 14:45-17:00 | ...    | Ja                        | 10  |
-| D1 <br>Conceptvorming                                | SO/VSO/AOB/MG    | 29-01 | Woensdag        | Thessa <br>Cathelijne          | Zeist  | 14:45-17:00 | ...    | Ja                        | 10  |
+| D1 <br>Conceptvorming                                | SO/VSO/AOB/MG    | 04-02 | Dinsdag         | Thessa <br>Cathelijne          | Zeist  | 14:45-17:00 | ...    | Ja                        | 10  |
 | D2 <br>Tast                                          | SO/VSO/AOB       | 13-03 | Donderdag       | Annetta <br>Linda              | Doorn  | 14:45-17:00 | ...    | Ja                        | 12  |
 | F1 <br>Digitaal Werken met Braille Leerlingen 1      | VSO              | 23-10 | Woendag         | Eric                           | Zeist  | 14:45-17:00 | ...    | Neen                      | 6   |
 | F1 <br>Digitaal Werken met Braille Leerlingen 2      | VSO              | 13-11 | Woensdag        | Eric                           | Zeist  | 14:45-17:00 | ...    | Neen                      | 6   |
