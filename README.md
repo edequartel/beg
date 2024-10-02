@@ -15,7 +15,7 @@
 | F1 <br>Digitaal Werken met Braille Leerlingen 4      | VSO              | 16-01 | Donderdag       | Eric                           | Zeist  | 14:45-17:00 | ...    | Neen                      | 6   |
 | F1 <br>Digitaal Werken met Braille Leerlingen 5      | SO               | 29-01 | Woensdag        | Eric                           | Zeist  | 14:45-17:00 |        | Neen                      | 6   |
 | G1 <br>ICT en Meervoudig Beperkt                     | MG               | ...   | ...             | Dick                           | ...    | ...         | ...    | ...                       | 10  |
-| H1 <br>Digitaal Werken met Slechtziende Leerlingen 1 | VSO              | ...   | ...             | Dick                           | ...    | ...         | ...    | ...                       | 10  |
+| H1 <br>Digitaal Werken met Slechtziende Leerlingen 1 | VSO              | 16-10  | Wo Studiedag            | Dick                           | Zeist   | ...         | ...    | ...                       | 10  |
 | H1 <br>Digitaal Werken met Slechtziende Leerlingen 2 | AOB              | ...   | ...             | Dick                           | ...    | ...         | ...    | ...                       | 10  |
 | H1 <br>Digitaal Werken met Slechtziende Leerlingen 3 | SO               | ...   | ...             | Dick                           | ...    | ...         | ...    | ...                       | 10  |
 | X1 <br>BrailleStudio                                 | SO/AOB           | 12-03 | Woensdag        | Thessa <br>Cathelijne <br>Eric | Zeist  | 14:45-17:00 |        | Neen                      | 6   |
