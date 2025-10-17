@@ -1,7 +1,7 @@
 # Overzicht - tast en braille - cursussen - 2025-2026
 
 
-| Cursus | Voor wie | Datum | Dag van de Week | Workshop leider | Waar | Tijd | Ruimte | Online voorbereiding | Max |
+| Cursus | Voor wie | Datum | Dag van de Week | ffWorkshop leider | Waar | Tijd | Ruimte | Online voorbereiding | Max |
 |--------|-----------|--------|-----------------|------------------|-------|--------|---------|----------------------|------|
 | A1 Braille Basis | SO/VSO/AOB/MG | 12-nov | Woensdag | Eric | Zeist | 14:45-16:45 | ... | Ja | 12 |
 | A1 Braille Basis | SO/VSO/AOB/MG | 5-nov | Woensdag | Eric | Bosschool | 14:45-16:45 | ... | Ja | 12 |
